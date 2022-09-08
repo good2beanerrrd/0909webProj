@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Tn4U0MxeqheqDtM8AWopZrpbgq+vvHznGcbO+fGCIeM=",
-  "Source": "test",
-  "BasePath": "_content/test",
+  "Hash": "1jpuqIneSxbbeuliTO83kpbIV16QkD1llCcFaypTSAI=",
+  "Source": "CookbookApi",
+  "BasePath": "_content/CookbookApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

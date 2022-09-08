@@ -1,9 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-
-namespace CookbookApi.Controllers;
+namespace test.Controllers;
 
 [ApiController]
-[Route("[controller")]
+[Route("[api/controller")]
 public class RecipeController : Controller
 {
     private readonly ILogger<RecipeController> _logger;
@@ -14,7 +13,7 @@ public class RecipeController : Controller
     }
 
     // 設定這個API使用GET方法
-    [HttpGet]
+    [HttpGet(Name = "GetSweetSourPorkRecipe")]
     public IActionResult Get()
     {
         // 宣告一個食譜的Model，並呼叫Libs.Recipe.Get函數取得資料

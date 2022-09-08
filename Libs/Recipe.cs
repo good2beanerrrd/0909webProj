@@ -1,4 +1,4 @@
-namespace CookbookApi.Libs
+namespace test.Libs
 {
     public class Recipe
     {
