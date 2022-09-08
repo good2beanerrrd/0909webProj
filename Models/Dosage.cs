@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
  
-namespace CookbookApi.Models
+namespace test.Models
 {
     public class Dosage
     {
