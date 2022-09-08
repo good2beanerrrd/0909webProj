@@ -12,6 +12,9 @@ public class RecipeController : Controller
         _logger = logger;
     }
 
+    //讓這個API同時有GET與HEAD兩種方法
+    // 設定這個API使用HEAD方法
+    [HttpHead]
     // 設定這個API使用GET方法
     [HttpGet]
     public IActionResult Get()
