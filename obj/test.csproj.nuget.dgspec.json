@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zhengtingyun/Test/test.csproj": {}
+    "/Users/zhengtingyun/0909webProj/test.csproj": {}
   },
   "projects": {
-    "/Users/zhengtingyun/Test/test.csproj": {
+    "/Users/zhengtingyun/0909webProj/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zhengtingyun/Test/test.csproj",
+        "projectUniqueName": "/Users/zhengtingyun/0909webProj/test.csproj",
         "projectName": "test",
-        "projectPath": "/Users/zhengtingyun/Test/test.csproj",
+        "projectPath": "/Users/zhengtingyun/0909webProj/test.csproj",
         "packagesPath": "/Users/zhengtingyun/.nuget/packages/",
-        "outputPath": "/Users/zhengtingyun/Test/obj/",
+        "outputPath": "/Users/zhengtingyun/0909webProj/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zhengtingyun/.nuget/NuGet/NuGet.Config"

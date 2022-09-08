@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zhengtingyun/test/test.csproj",
+      "projectUniqueName": "/Users/zhengtingyun/0909webProj/test.csproj",
       "projectName": "test",
-      "projectPath": "/Users/zhengtingyun/test/test.csproj",
+      "projectPath": "/Users/zhengtingyun/0909webProj/test.csproj",
       "packagesPath": "/Users/zhengtingyun/.nuget/packages/",
-      "outputPath": "/Users/zhengtingyun/test/obj/",
+      "outputPath": "/Users/zhengtingyun/0909webProj/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zhengtingyun/.nuget/NuGet/NuGet.Config"
