@@ -8,11 +8,11 @@ namespace CookbookApi.Models
         [Required]
         // 定義字串最長20字元，最短5字元
         [StringLength(20, MinimumLength = 1)]
-        public string Name {set;get;}
+        public string? Name {set;get;}
  
         [Required]
         [StringLength(20, MinimumLength = 1)]
-        public string Unit {set;get;}
+        public string? Unit {set;get;}
  
         [Required]
         public int Weight {set;get;}
