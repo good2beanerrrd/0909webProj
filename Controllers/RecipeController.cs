@@ -17,7 +17,7 @@ public class RecipeController : Controller
     [HttpGet]
     public IActionResult Get()
     {
-        // 宣告一個食譜的Ｍodel，並呼叫Libs.Recipe.Get函數取得資料
+        // 宣告一個食譜的Model，並呼叫Libs.Recipe.Get函數取得資料
         Models.Recipes objRecipe = Libs.Recipe.Get();
         // 回傳HTTP 200，內容為糖醋排骨的食譜資料
         return Ok(objRecipe);
